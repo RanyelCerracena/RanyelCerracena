@@ -1,6 +1,10 @@
 # 🐱‍👤Sobre Mim:
 
-<br><br>Desenvolvedor Full-Stack & Desktop<br>Html | Css | JavaScript | Vue.Js<br>C# | .NET Core | Asp.Net Core | MySQL<br><br>Estudante autodidata das tecnologias da plataforma .NET Core. Iniciando na programação<br>para desktop por meio da Programação Orientada a Objetos com C# onde apliquei meus <br>conhecimentos com banco de dados. Iniciando em seguida no desenvolvimento front-end<br>em aplicaçãoes Web com Html, Css e JavaScript, onde pude aprender frameworks como <br>BootStrap 5 e Vue.js. Me aperfeiçoei dia após dia para conciliar meus aprendizados e me tornar<br>um desenvolvedor Full-Stack além de desenvolvedor Desktop. 
+Como desenvolvedor Full-Stack e Desktop, minha trajetória é marcada pelo aprendizado e pela aplicação de tecnologias versáteis. Comecei minha jornada com o desenvolvimento de aplicações desktop, dominando a programação orientada a objetos com C# e implementando soluções com banco de dados SQL Server.
+
+Expandindo minhas habilidades, dediquei-me ao desenvolvimento web, onde adquiri proficiência em HTML, CSS e JavaScript. Aprofundei meu conhecimento em frameworks modernos como Vue.js e Angular.js, o que me permitiu construir experiências de usuário ricas e interativas.
+
+Hoje, concilio minhas competências em ambas as plataformas, buscando constantemente novos desafios para desenvolver soluções completas e inovadoras que unem a robustez do back-end (.NET Core, ASP.NET Core) com a fluidez do front-end.
 
 
 ## 🌐 Socials:
