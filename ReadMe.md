@@ -2,117 +2,46 @@
   <img src="src/images/whereWill.jpeg" width="100%" style="border-radius: 15px;" />
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7b2cbf&height=200&section=header&text=Ranyel%20Cerracena&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20API%20Architect&descAlignY=60&descSize=20" width="100%" />
+# <h1 align="center">Olá! Eu sou Ranyel Cerracena</h1>
+
+
+
+## <h2 align="center" style="font-style: italic;">About-me</h2>
+<div align="center" style="text-align:justify;">
+  <img align="right" style="padding:0 0 0 10px;" width="50%" src="src/images/wakeUpNeo.jpg"/>
+  <p width="50%">Atuo no desenvolvimento de soluções utilizando C#, .NET e Golang, com experiência na criação de sistemas internos voltados à automação de processos administrativos e fiscais.<br><br>Tenho experiência prática construindo aplicações utilizadas no dia a dia de empresas, atuando desde a definição de requisitos até a implementação e manutenção em produção.</p>
 </div>
 
+---
+## <h2 align="center" style="font-style: italic;">Technologies</h2>
+<p align="center">Este é o conjunto de tecnologias e ferramentas que compõem meu ambiente de trabalho, projetado para transformar desafios complexos em sistemas robustos, seguros e performáticos.</p>
 <div align="center">
-  <br />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=7b2cbf&logoColor=white&labelColor=000000&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=7b2cbf&logoColor=white&labelColor=000000&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=7b2cbf&logoColor=white&labelColor=000000&style=for-the-badge" height="25" alt="whatsapp logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7b2cbf&logoColor=white&labelColor=000000&style=for-the-badge" height="25" alt="discord logo" />
-  <br /><br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RanyelCerracena.RanyelCerracena&left_text=Visitantes&color=7b2cbf" />
+  <p align="center">
+    <table width="100%" >
+      <tr>
+        <td width="50%" style="border:none;">
+          <h3 align="center" style="font-style:italic;">Skills</h3>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=dotnet,cs,go,js,html,css,vue,mysql" />
+          </a>
+        </td>
+        <td width="50%" style="border:none;">
+          <h3 align="center" style="font-style:italic;">Tools</h3>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=figma,git,github,obsidian,rider,visualstudio,vscode,windows,linux" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </p>
 </div>
-
-<br />
 
 ---
 
-### 🌌 About Me
-
+## <h2 align="center" style="font-style: italic;">Statistics</h2>
 <div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td width="55%" valign="top">
-        <p align="left">
-          🚀 <b>Desenvolvedor Backend</b> focado na construção de ecossistemas escaláveis, automações inteligentes e APIs de alta performance.
-        </p>
-        <p align="left">
-          Atualmente explorando o potencial de <b>Golang</b> e <b>.NET</b> para criar sistemas que resolvem problemas reais de negócio com eficiência e robustez.
-        </p>
-      </td>
-      <td width="45%" valign="top">
-        <p align="left">
-          <b>🎯 Foco Atual:</b><br />
-          🔹 Microserviços<br />
-          🔹 Cloud Native<br />
-          🔹 Automação Fiscal<br />
-          🔹 Engenharia de Dados
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img style="padding:0 5px 0 0;" src="https://github-readme-stats.vercel.app/api?username=RanyelCerracena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=RanyelCerracena&locale=pt-br&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanyelCerracena&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-<br />
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <table width="100%" border="0">
-    <!-- LINHA 1: SKILLS -->
-    <tr>
-      <td align="center" colspan="3"><strong>Skills</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="csharp" />
-        <br />C#
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=go" height="40" alt="go" />
-        <br />Golang
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet" />
-        <br />.NET
-      </td>
-    </tr>
-    <!-- LINHA 2: FERRAMENTAS E SO -->
-    <tr>
-      <td align="center" colspan="3"><strong>Ferramentas & Sistemas Operacionais</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
-        <br />MySQL
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="mssql" />
-        <br />SQL Server
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
-        <br />Linux
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-### 📊 Activity & Insights
-
-<div align="center">
-  <table width="100%" border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=RanyelCerracena&show_icons=true&theme=tokyonight&hide_border=true&title_color=7b2cbf&icon_color=7b2cbf&text_color=ffffff" height="180" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanyelCerracena&theme=tokyonight&hide_border=true&stroke=7b2cbf&ring=7b2cbf&fire=7b2cbf&currStreakLabel=7b2cbf" height="180" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=7b2cbf&height=20&width=100%25" />
-  <br />
-  <sub>✨ Crafted with passion by <b>Ranyel Cerracena</b> ✨</sub>
-</div>
