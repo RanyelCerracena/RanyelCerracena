@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWluYXEyOXJnZGQ5aXN0YzY3MXdueWx1OG9sZzltbmQ3MHU4NWg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TmLKfeYOuO2c/giphy.gif"  />
+<div width="100%">
+  <img width="100%" src="src/images/whereWill.jpeg"  />
 </div>
 
 ###
