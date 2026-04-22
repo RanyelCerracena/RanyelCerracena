@@ -21,12 +21,12 @@
 
 ---
 
-## <h2 align="center" style="font-style: italic;"><code>About-me</code></h2>
+### 🌌 About Me
 
 <div align="center">
   <table width="100%" border="0">
-    <tr style="border: 0px solid transparent;">
-      <td width="55%" valign="top"style="border: 0px solid transparent;">
+    <tr>
+      <td width="55%" valign="top">
         <p align="left">
           🚀 <b>Desenvolvedor Backend</b> focado na construção de ecossistemas escaláveis, automações inteligentes e APIs de alta performance.
         </p>
@@ -34,7 +34,7 @@
           Atualmente explorando o potencial de <b>Golang</b> e <b>.NET</b> para criar sistemas que resolvem problemas reais de negócio com eficiência e robustez.
         </p>
       </td>
-      <td width="45%" valign="top" style="border: 0px solid transparent;">
+      <td width="45%" valign="top">
         <p align="left">
           <b>🎯 Foco Atual:</b><br />
           🔹 Microserviços<br />
@@ -49,26 +49,57 @@
 
 <br />
 
-<!-- ## <h2 align="center" style="font-style: italic;">Tech Stack</h2> -->
-
-## <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Tech%20Skill&textBg=false&animation=twinkling&descAlign=60&descAlignY=60"/>
+### 🛠️ Tech Stack
 
 <div align="center">
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,go,js,html,css,vue,mysql,figma,git,github,obsidian,rider,visualstudio,vscode,windows,linux&perline=6" />
-    </a>
-  </p>
+  <table width="100%" border="0">
+    <!-- LINHA 1: SKILLS -->
+    <tr>
+      <td align="center" colspan="3"><strong>Skills</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="csharp" />
+        <br />C#
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=go" height="40" alt="go" />
+        <br />Golang
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet" />
+        <br />.NET
+      </td>
+    </tr>
+    <!-- LINHA 2: FERRAMENTAS E SO -->
+    <tr>
+      <td align="center" colspan="3"><strong>Ferramentas & Sistemas Operacionais</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+        <br />MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="mssql" />
+        <br />SQL Server
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
+        <br />Linux
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
-## <h2 align="center" style="font-style: italic;"><code>My Status</code></h2>
+### 📊 Activity & Insights
 
-<div align="center" border="0">
+<div align="center">
   <table width="100%" border="0">
     <tr>
-      <td align="center" width="50%" border="0">
+      <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=RanyelCerracena&show_icons=true&theme=tokyonight&hide_border=true&title_color=7b2cbf&icon_color=7b2cbf&text_color=ffffff" height="180" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
