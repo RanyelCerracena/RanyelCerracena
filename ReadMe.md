@@ -17,8 +17,8 @@
 <p align="center">Este é o conjunto de tecnologias e ferramentas que compõem meu ambiente de trabalho, projetado para transformar desafios complexos em sistemas robustos, seguros e performáticos.</p>
 <div align="center">
   <p align="center">
-    <table width="100%" >
-      <tr>
+    <table width="100%" style="border:none;" >
+      <tr style="border:none;">
         <td width="50%" style="border:none;">
           <h3 align="center" style="font-style:italic;">Skills</h3>
           <a href="https://skillicons.dev">
