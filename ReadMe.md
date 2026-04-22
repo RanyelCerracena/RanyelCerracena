@@ -26,7 +26,7 @@
 
 ### 👤 Perfil Profissional
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
       <h4>🚀 Sobre mim</h4>
@@ -55,7 +55,7 @@
 
 ### 🛠️ Stack Tecnológica
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td align="center" colspan="2"><strong>Linguagens & Frameworks</strong></td>
   </tr>
@@ -109,14 +109,10 @@
 ### 🔥 Estatísticas & Atividade
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=RanyelCerracena&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=RanyelCerracena&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
 </div>
+
+<br />
 
 ---
 
