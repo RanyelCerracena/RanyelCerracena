@@ -7,10 +7,22 @@
 
 
 ## <h2 align="center" style="font-style: italic;">About-me</h2>
-<div align="center" style="text-align:justify;">
-  <img align="right" style="padding:0 0 0 10px;" width="50%" src="src/images/wakeUpNeo.jpg"/>
-  <p width="50%">Atuo no desenvolvimento de soluções utilizando C#, .NET e Golang, com experiência na criação de sistemas internos voltados à automação de processos administrativos e fiscais.<br><br>Tenho experiência prática construindo aplicações utilizadas no dia a dia de empresas, atuando desde a definição de requisitos até a implementação e manutenção em produção.</p>
-</div>
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:10px; border:none;">
+      <p>
+        Atuo no desenvolvimento de soluções utilizando C#, .NET e Golang, com experiência na criação de sistemas internos voltados à automação de processos administrativos e fiscais.
+      </p>
+      <p>
+        Tenho experiência prática construindo aplicações utilizadas no dia a dia de empresas, atuando desde a definição de requisitos até a implementação e manutenção em produção.
+      </p>
+    </td>
+    
+   <td style="width:50%; border:none;"=> 
+      <img src="src/images/wakeUpNeo.jpg" style="width:100%;" />
+   </td>
+  </tr>
+</table>
 
 ---
 ## <h2 align="center" style="font-style: italic;">Technologies</h2>
