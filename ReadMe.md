@@ -27,7 +27,7 @@
 <br/>
 
 <p align="center">
-   <img src="src/images/img3.png" width="15"/>   <em><b> Estudando Eng. de Software pela Universidade Anhanguera </b></em> <br/>
+   <img src="src/images/img3.png" width="15"/>   <em><b> Estudando Eng. de Software pela Universidade Anhanguera </b></em> <br/> <em><b> Cursando CS50: Introduction to Computer Science por Harvard </b></em> <em><b> Cursando Introdução a Cibersegurança pela Cisco Networking Academy </b></em>
 </p>
 
 <br/>
